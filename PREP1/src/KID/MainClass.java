@@ -9,7 +9,7 @@ class Main {
 	}
 
 	public int wrong(int input) {
-		return input * 4;
+		return input * 2;
 	}
 }
 
